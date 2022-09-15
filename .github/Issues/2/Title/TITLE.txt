@@ -1,0 +1,1 @@
+[Question] Does logcat have a file suffix or mimetype? #2
